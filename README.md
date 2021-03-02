@@ -1,2 +1,2 @@
-# Blog
+# Blog posting
 ## Made using NODEJS
